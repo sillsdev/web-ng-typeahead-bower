@@ -1,0 +1,13 @@
+{
+  "name": "sil-ng-typeahead",
+  "description": "A typeahead directive for AngularJS that displays typeahead option in a select like drop-down.",
+  "main": "typeahead.js",
+  "authors": [
+    "SIL"
+  ],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.0.x"
+  }
+}
